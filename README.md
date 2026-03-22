@@ -16,7 +16,7 @@ The project demonstrates the complete lifecycle of a time series ML project — 
 
 ## 🚀 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-url-here)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mandipredict-lof9ir7vqyi4hwtentpxft.streamlit.app/)
 
 > Replace the link above with your Streamlit Cloud deployment URL after deployment.
 
