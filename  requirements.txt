@@ -1,8 +1,0 @@
-streamlit
-prophet
-pandas
-numpy
-matplotlib
-plotly
-scikit-learn
-openpyxl
